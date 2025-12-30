@@ -1,0 +1,11 @@
+{
+    "version" : "1.0",
+    "configurations" : [
+        {
+            "customPlaygroundType" : "device",
+            "localRepoPath" : "D:/code/HBuilderX/项目/mini",
+            "playground" : "custom",
+            "type" : "uni-app:app-android"
+        }
+    ]
+}
